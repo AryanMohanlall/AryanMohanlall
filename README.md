@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryanmohanlall@gmail.com**
 
-- My CV: [Curriculum Vitae  Aryan Mohanlall](./'Curriculum Vitae  Aryan Mohanlall.pdf')
+- My CV: [Curriculum Vitae  Aryan Mohanlall](./Curriculum%20Vitae%20%20Aryan%20Mohanlall.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
